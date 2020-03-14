@@ -1,12 +1,11 @@
 # BloxCord
 ## The ROBLOX API Bot of the future.
-
+#### To use any of these functions, you need to purchase an API Key. It costs R$300 (sometimes) and sometimes R$500.
+#### DM SirYeet#4221 to purchase @ [Our official discord server](https://discord.gg/xaCZs4E)
   
 ## BloxCord Enlighten
 #### Click on someone to kick, ban, demote, promote, and exile members. You can also see their discord tag 
-#### You can watch a small example [here](https://gyazo.com/cf5fc4edeb46f882638777787a7868b0)
-##### Get [here](https://www.roblox.com/library/4776691123/BloxCord-Enlighten)    
-    
+#### You can watch a small example [here](https://gyazo.com/cf5fc4edeb46f882638777787a7868b0)   
 ## BloxCord Rank Center [3/13/2020]
 ##### This is basically for selling ranks. After a user buys a rank, it automatically ranks them in ROBLOX. It's really useful if you are trying to get some quick money from your business.
 ##### Functions: Customizable, Easily Buy Ranks, All needed is {RankId, RankName, RankProductId, and a description}
