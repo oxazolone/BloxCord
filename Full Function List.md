@@ -2,7 +2,10 @@
 ## The ROBLOX API Bot of the future.
 
   
-    
+## BloxCord Enlighten
+#### Click on someone to kick, ban, demote, promote, and exile members. You can also see their discord tag 
+#### You can watch a small example [here](https://gyazo.com/cf5fc4edeb46f882638777787a7868b0)
+##### Get [here](https://www.roblox.com/library/4776691123/BloxCord-Enlighten)    
     
 ## BloxCord Rank Center [3/13/2020]
 ##### This is basically for selling ranks. After a user buys a rank, it automatically ranks them in ROBLOX. It's really useful if you are trying to get some quick money from your business.
