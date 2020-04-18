@@ -3,6 +3,10 @@
 #### To use any of these functions, you need to purchase an API Key. It costs R$300 (sometimes) and sometimes R$500.
 #### DM SirYeet#4221 to purchase @ [Our official discord server](https://discord.gg/xaCZs4E)
 
+## BloxCord Gamepass Rank Center
+##### This is basically for selling ranks. After a user buys a rank, it automatically ranks them in ROBLOX. It's really useful if you are trying to get some quick money from your business. 
+[Model Link] (https://www.roblox.com/library/4804448558/BloxCord-gamepass-Rank-Center) [It has an API key inserted but it will not work]
+
 ## Text Uploader
 #### Easily upload a .txt file to our servers right from roblox. Will return a URL and can be accessed by anyone who has link.
 
@@ -10,7 +14,7 @@
 ## BloxCord Enlighten
 #### Click on someone to kick, ban, demote, promote, and exile members. You can also see their discord tag 
 #### You can watch a small example [here](https://gyazo.com/cf5fc4edeb46f882638777787a7868b0)   
-## BloxCord Rank Center [3/13/2020]
+## BloxCord Developer Product Rank Center [3/13/2020]
 ##### This is basically for selling ranks. After a user buys a rank, it automatically ranks them in ROBLOX. It's really useful if you are trying to get some quick money from your business.
 ##### Functions: Customizable, Easily Buy Ranks, All needed is {RankId, RankName, RankProductId, and a description}
   
