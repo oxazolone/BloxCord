@@ -5,7 +5,7 @@
 
 ## BloxCord Gamepass Rank Center
 ##### This is basically for selling ranks. After a user buys a rank, it automatically ranks them in ROBLOX. It's really useful if you are trying to get some quick money from your business. 
-[Model Link] (https://www.roblox.com/library/4804448558/BloxCord-gamepass-Rank-Center) [It has an API key inserted but it will not work]
+[Model Link](https://www.roblox.com/library/4804448558/BloxCord-gamepass-Rank-Center) (It has an API key inserted but it will not work)
 
 ## Text Uploader
 #### Easily upload a .txt file to our servers right from roblox. Will return a URL and can be accessed by anyone who has link.
