@@ -19,4 +19,5 @@ This is for my discord bot called [BloxCord](https://top.gg/bot/6780190850358968
 local BloxCord = require(4764326346)
 BloxCord.login(API KEY, TOKEN)
 ```
+##### [Offical Website](https://bloxcord.net)
 ##### ApiKey and Token can be retrieved by asking staff in our [official discord server](https://discord.gg/xaCZs4E)
